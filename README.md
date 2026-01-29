@@ -34,8 +34,8 @@
 <h3>Kits</h3>
 <ul>
 <li>Starter kit can redeem every 4 hours </li>
-<li>building kit you can redeem every 12 hours<li/> 
-  <li>VIP kit can redeem every 12 hours</li>
+<li>building kit you can redeem every 12 hours</li> 
+<li>VIP kit can redeem every 12 hours</li>
 <li>VIP+ kit can redeem every 12 hours</li>
 <li>MVP kit can redeem every 24 hours</li>
 
@@ -43,7 +43,6 @@
 
   
 </ul>
-
 
 
 
