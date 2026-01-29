@@ -28,15 +28,15 @@
 <li>Mini coppters spawm on roads</li>
 <li>Custom stack size for loot</li>  
 <li>Better loot tables in boxes and no junk</li>
-<li>Bradly spawms faster</li>
+<li>Bradly spaws faster</li>
 
 </ul>
-<h3></h3>
+<h3>Kits</h3>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Starter kit can redeem every 4 hours </li>
+<li>VIP kit can redeem every 12 hours</li>
+<li>VIP+ kit can redeem every 12 hours</li>
+<li>MVP kit can redeem every 24 hours</li>
 
 
 
