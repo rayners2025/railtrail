@@ -43,9 +43,23 @@
 
   
 </ul>
+<h2>Rules</h2>
+
+<ul>
+<li>No hacking </li>
+<li>No game bans unless 90 days old </li>
+<li>No insding first ban 14. second ban 2 years</li>
+<li>No Racism or hate ban perm</li>
+<li>No Stream Sniping </li>
+<li>No Walling in outpost or any safe zones will result in a 4 week ban </li>
+<li>No Teaming over limet ban lasts 1 week </li>
+<li>No EAC or VAC bans at ALL!</li>
 
 
 
+
+  
+</ul>
 
 
 
