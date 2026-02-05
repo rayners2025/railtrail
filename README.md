@@ -31,7 +31,7 @@
 <li>Bradly spawns faster</li>
 
 </ul>
-<h3>Kits</h3>
+<h2>Kits</h2>
 <ul>
 <li>Starter kit can redeem every 4 hours </li>
 
