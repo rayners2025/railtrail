@@ -38,6 +38,8 @@
 >
   
 <li>building kit you can redeem every 12 hours</li> 
+<img width="200" height="1024" alt="Rust-style building " src="https://github.com/user-attachments/assets/64579d3b-acb4-4775-85bf-824b5ae93c24" />
+
 
 
 <li>VIP kit can redeem every 12 hours</li>
