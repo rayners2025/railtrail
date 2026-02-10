@@ -34,7 +34,8 @@
 <h2>Kits</h2>
 <ul>
 <li>Starter kit can redeem every 4 hours </li>
-
+<img <img width="200" height="1024" alt="A red and black them" src="https://github.com/user-attachments/assets/b747e69a-0916-4360-ba69-c44c3b869538" />
+>
   
 <li>building kit you can redeem every 12 hours</li> 
 
