@@ -1,21 +1,24 @@
 <!DOCTYPE html> 
 <html> 
-
-  
   <head> 
-
-  
   <meta charset="utf-8">
- 
+<style> h1
+   {color: rgb(255 0 255); 
+   }
+
 
   
+</style> 
   
-  <head/>
-
+  
+  
+  
+  
+  </head>
   
   
   <body>
-<h1>Rustpanda 2x Monthly Main, 50% Upkeep, Kits, Custom Plugins, Fast Smelt, Minis Spawn On Roads</h1>
+<h1 id="rust">Rustpanda 2x Monthly Main, 50% Upkeep, Kits, Custom Plugins, Fast Smelt, Minis Spawn On Roads</h1>
 
 <h3>Basic info</h3>
 <p>This rust sever has all the things that a other sever has there kits that are not that expinsive no super pay to win kits and there is always ative admins 
@@ -86,6 +89,13 @@
 
 
 
+
+
+
+
+
+
+   
 
 
 
