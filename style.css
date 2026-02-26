@@ -1,4 +1,13 @@
 <!DOCTYPE html> 
+
+.title {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
 .rust { 
   color: yellow;
 }
