@@ -2,13 +2,7 @@
 <html> 
   <head> 
   <meta charset="utf-8">
-<style> h1
-   {color: rgb(255 0 255); 
-   }
 
-
-  
-</style> 
   
   
   
