@@ -57,5 +57,5 @@
 <li>No hacking </li>
 <li>No game bans unless 90 days old </li>
 <li>No insding first ban 14. second ban 2 years</li>
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+
  
