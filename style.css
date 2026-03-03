@@ -41,6 +41,13 @@ font-family: cursive;
   background-color: red;
 }
 
+html {
+  background-color: red;
+}
+
+body {
+  background: red !important;
+}
 
 
 
