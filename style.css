@@ -13,7 +13,7 @@
 }
 
 .rust {
-  font-family: - Dancing Script;
+  font-family:  Dancing Script;
   
 }
 
@@ -38,12 +38,11 @@ color: lightblue;
 .info {
 font-family: cursive;
 
-  
+  body {
+  background: linear-gradient(180deg, #0f0f0f, #2b2b2b);
 }
-body {
-background-color: lightred;
 
 
-  
-}
+
+
 
