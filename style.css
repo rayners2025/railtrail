@@ -36,9 +36,6 @@ color: lightblue;
 
 .info {
 font-family: cursive;
-
- body {
-  background-color: red;
 }
 
 html {
@@ -46,7 +43,7 @@ html {
 }
 
 body {
-  background: red !important;
+  background: red !important; 
 }
 
 
