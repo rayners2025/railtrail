@@ -38,8 +38,10 @@ color: lightblue;
 .info {
 font-family: cursive;
 
-  body {
-  background: black;
+ html {
+  background-color: white;
+}
+
 
 
 
