@@ -57,5 +57,7 @@
 <li>No hacking </li>
 <li>No game bans unless 90 days old </li>
 <li>No insding first ban 14. second ban 2 years</li>
-
- 
+<li>No racist words</li>
+<li>No stream sniping</li>
+<li>No more than 2 game bans</li>
+<li>No walling in excav ir safe zones</li>
