@@ -30,7 +30,7 @@
 </ul>
 <h2>Kits</h2>
 <ul>
-<li>Starter kit can redeem every 4 hours </li>
+<li>Starter kit can be redeem every 4 hours </li>
 <img <img width="200" height="1024" alt="A red and black them" src="https://github.com/user-attachments/assets/b747e69a-0916-4360-ba69-c44c3b869538" />
 >
   
@@ -39,13 +39,13 @@
 
 
 
-<li>VIP kit can redeem every 12 hours</li>
+<li>VIP kit can be redeem every 12 hours</li>
 
 
-<li>VIP+ kit can redeem every 12 hours</li>
+<li>VIP+ kit can be redeem every 12 hours</li>
 
 
-<li>MVP kit can redeem every 24 hours</li>
+<li>MVP kit can be redeem every 24 hours</li>
 
 
 
@@ -56,7 +56,7 @@
 <ul>
 <li>No hacking </li>
 <li>No game bans unless 90 days old </li>
-<li>No insding first ban 14. second ban 2 years</li>
+<li>No insding first ban 14 days, second ban 2 years</li>
 <li>No racist words</li>
 <li>No stream sniping</li>
 <li>No more than 2 game bans</li>
