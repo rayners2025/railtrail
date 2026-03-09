@@ -32,21 +32,24 @@
 <h2>Kits</h2>
 <ul>
 <li>Starter kit can be redeem every 4 hours </li>
-<img <img width="200" height="1024" alt="A red and black them" src="https://github.com/user-attachments/assets/b747e69a-0916-4360-ba69-c44c3b869538" />
+<img <img width="200" height="200" alt="Rust starter kit tex" src="https://github.com/user-attachments/assets/cc6c7056-b5d4-40c8-b16a-32b9b6cbfae4" />
 
   
 <li>building kit you can redeem every 12 hours</li> 
-<img width="200" height="1024" alt="Rust-style building " src="https://github.com/user-attachments/assets/64579d3b-acb4-4775-85bf-824b5ae93c24" />
-
+<img width="200" height="200" alt="Rust building kit te" src="https://github.com/user-attachments/assets/c8cd8fe2-4e37-480b-89ba-f2c0e59869e8" />
 
 
 <li>VIP kit can be redeem every 12 hours</li>
+<img width="200" height="200" alt="Rust VIP+ kit nuclear" src="https://github.com/user-attachments/assets/03f72f59-376e-4ab5-ba11-6657c939b21a" />
 
 
 <li>VIP+ kit can be redeem every 12 hours</li>
+<img width="200" height="200" alt="Rust VIP kit nuclear" src="https://github.com/user-attachments/assets/182ca708-b90d-4e17-abd3-c9047443349f" />
+
 
 
 <li>MVP kit can be redeem every 24 hours</li>
+<img width="200" height="200" alt="Rust MVP kit chrome " src="https://github.com/user-attachments/assets/7e9a7631-71f6-4b7a-9d03-bd3daede7642" />
 
 
 
