@@ -15,7 +15,8 @@
 <h1 id="rust">Rustpanda 2x Monthly Main, 50% Upkeep, Kits, Custom Plugins, Fast Smelt, Minis Spawn On Roads</h1>
 
 <h3 id="info">Basic info</h3>
-<p>This rust sever has all the things that a other sever has there kits that are not that expinsive no super pay to win kits and there is always ative admins 
+<p>the rustpanda sever bring many new featurs to rust that any other sever would not have, we have 50% upkeep so you can make a good clan base. we have active none playing admin so players dont have to worry about hackers, we have made it so there is a 15% chance that a mini coppter will spawn on the road only in grass and desert. we have changed the gather rates so it is a 2x but sulfer will only give 450 per node 
+  and made all the other resourse 2x we have made it so when farming wood with a chainsaw you hit the X every time so it makes your farming way better. there are cool events that happen on the map there events will happen every 4 hours (events) the cargo plane crashing into airfeild droping three creates, bradly APC event insdend of it taking an hour to respawn it only takes 30 minutes, junkyard event crush down car untill you find an airdrop to give you loot you have a chnace to find 2-4 airdrops.
 </p>
 <h2 id="plugin">Some types of plugins</h2>
 <ul>
