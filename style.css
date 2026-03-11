@@ -6,83 +6,38 @@ html, body {
   padding: 0;
 }
 
-
 .rust { 
   color: darkred;
+font-family:  cursvie; 
 }
-
-.rust {
-  font-family:  cursvie;
-  
-}
-
 
 .plugin  {
  color: red; 
-
-
-}
-
-.plugin {
 font-family: cursive;
-  
+font-size: 3em;
 }
 
 .info {
 color: red;
-
-  
-}
-
-.info {
 font-family: cursive;
+font-size: 3em;  
 }
-
-
 
 html {
   background: lightblue; 
 }
 
 .yellow {
-
 color: black;
 }
 
 .orenge {
 color: red;
-  
-}
-
-.orenge {
-
-  font-famliy: cursive;
+font-famliy: cursive;
 }
 
 .kit {
 color: red;
-
-  
-}
-
-.kit {
 font-size: 3em;
-
-
-  
-}
-
-
-.kit {
-font-family: curive;
-
-
-  
-}
-
-.info {
-font-size: 3em;
-
-
-  
+font-family: cursive;    
 }
