@@ -50,6 +50,9 @@ font-family: cursive;
 
 }
 .rules {
+color: red; 
+font-family: cursive; 
+font-size: 3em;  
 id="rules"
-  
 }
+
