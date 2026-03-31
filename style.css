@@ -15,6 +15,7 @@ font-family:  cursvie;
  color: red; 
 font-family: cursive;
 font-size: 3em;
+background-color: dark blue;
 }
 
 .info {
@@ -38,10 +39,12 @@ color: black;
 color: red;
 font-family: cursive;
 font-size: 3em;
+background-color: dark blue;
 }
 
 .kit {
 color: red;
 font-size: 3em;
 font-family: cursive;    
+background-color: dark blue;
 }
