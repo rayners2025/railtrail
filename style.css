@@ -53,6 +53,12 @@ font-family: cursive;
 color: red; 
 font-family: cursive; 
 font-size: 3em;  
-id="rules"
+a[href="#rules"]
+  color: #1e90ff;
+  text-decoration: none;
+  font-weight: bold;
+a[href="#rules"]:hover
+  text-decoration: underline;
 }
+
 
